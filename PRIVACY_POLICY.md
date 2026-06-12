@@ -1,10 +1,10 @@
 # Privacy Policy — Snake
 
-**Last updated:** [DATE]
+**Last updated:** 12.06.2026
 
 ## Overview
 
-Snake ("the game", "we", "us") is a mobile game developed by [YOUR NAME / COMPANY]. This privacy policy explains what information we collect and how we use it.
+Snake ("the game", "we", "us") is a mobile game developed by Kalapa. This privacy policy explains what information we collect and how we use it.
 
 ## Information We Collect
 
@@ -43,13 +43,13 @@ The game contains optional coin purchases processed through Google Play Billing.
 
 ## Your Rights
 
-You can delete all local game data by clearing the app's storage in your Android settings. To request deletion of leaderboard data, contact us at [YOUR EMAIL].
+You can delete all local game data by clearing the app's storage in your Android settings. To request deletion of leaderboard data, contact us at skyzone@email.cz.
 
 ## Contact
 
-[YOUR NAME]
-[YOUR EMAIL]
-[YOUR WEBSITE / ADDRESS]
+
+skyzone@email.cz
+
 
 ## Changes to This Policy
 
